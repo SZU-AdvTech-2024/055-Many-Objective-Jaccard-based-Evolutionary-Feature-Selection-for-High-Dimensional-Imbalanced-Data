@@ -1,0 +1,12 @@
+@article{REPO055,
+    author = "Saadatmand, H. and Akbarzadeh-T, Mr.",
+    copyright = "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html",
+    doi = "10.1109/TPAMI.2024.3416196",
+    issn = "0162-8828, 2160-9292, 1939-3539",
+    journal = "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    language = "en",
+    pages = "1--16",
+    title = "{Many-{Objective} {Jaccard}-based {Evolutionary} {Feature} {Selection} for {High}-{Dimensional} {Imbalanced} {Data} {Classification}}",
+    url = "https://ieeexplore.ieee.org/document/10561590/",
+    year = "2024"
+}
